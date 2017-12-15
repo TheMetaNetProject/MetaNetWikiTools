@@ -1,0 +1,12 @@
+{
+    "@metadata": {
+        "authors": [
+            "Jisup Hong"
+        ]
+    },
+    "metanetwikitools": "MetaNet Wiki Tools",
+    "metanetwikitools-desc": "MetaNet Wiki Tools",
+    "metanetwikitools-summary": "MetaNet project-specific tools",
+    "mnextractor": "Metaphor Extraction Manager",
+    "specialpages-group-metanet": "MetaNet custom tools"
+}

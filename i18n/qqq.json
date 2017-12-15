@@ -1,0 +1,10 @@
+{
+    "@metadata": {
+        "authors": [
+            "Jisup Hong"
+        ]
+    },
+    "metanetwikitools": "The name of the extension's entry in Special:SpecialPages",
+    "metanetwikitools-desc": "{{desc}}",
+    "metanetwikitools-summary": "Description appearing on top of [[Special:MyExtension]]."
+}
